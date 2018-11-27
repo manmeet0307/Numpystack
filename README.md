@@ -1,1 +1,1 @@
-# Numpystack
+# Numpystack and Matplotlib introduction
